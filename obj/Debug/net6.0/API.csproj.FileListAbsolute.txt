@@ -1,0 +1,54 @@
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\appsettings.json
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.exe
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.deps.json
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.pdb
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.pdb
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\47297655\Desktop\Tp2 Dai Api Api\API\obj\Debug\net6.0\ref\API.dll
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.dll
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\refint\API.dll
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.pdb
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\appsettings.Development.json
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\appsettings.json
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.exe
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.deps.json
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.dll
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\API.pdb
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5c Dai\Tp2 Dai Api Api\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\5c Dai\Tp2 Dai Api Api\API\obj\Debug\net6.0\ref\API.dll
